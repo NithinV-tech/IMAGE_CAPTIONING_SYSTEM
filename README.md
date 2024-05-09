@@ -10,6 +10,7 @@
 - node index in server terminal
 - npm run dev in client terminal
 - click on http://localhost:5173
+- 
 
 
   YOU ARE ALL SET TO GO!
@@ -17,3 +18,8 @@
 Ps: A good internet connection is must.
 
 
+```
+A detailed walkthrough of the code and various screens and features implemented is present in the below link
+https://drive.google.com/drive/folders/1F_yk-IY9lMiTG9IYvQ2OnPmZjSjZYAAh?usp=sharing
+
+```
