@@ -11,3 +11,5 @@
 - npm run dev in client terminal
 
   YOU ARE ALL SET TO GO!
+
+Ps: A good internet connection is must.
