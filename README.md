@@ -9,7 +9,11 @@
 - do npm install in server terminal and client terminal both
 - node index in server terminal
 - npm run dev in client terminal
+- click on http://localhost:5173
+
 
   YOU ARE ALL SET TO GO!
 
 Ps: A good internet connection is must.
+
+
